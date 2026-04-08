@@ -1,1 +1,1 @@
-# CVPR-Summer-25-
+# Weather Classification using YOLOv8
